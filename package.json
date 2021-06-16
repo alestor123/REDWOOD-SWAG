@@ -1,0 +1,19 @@
+{
+  "name": "redwood-swag",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting some awesome stickers from redwood js ",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/REDWOOD-SWAG.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/REDWOOD-SWAG/issues"
+  },
+  "homepage": "https://github.com/alestor123/REDWOOD-SWAG#readme"
+}
