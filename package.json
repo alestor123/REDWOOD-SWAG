@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for getting some awesome stickers from redwood js ",
   "main": "cli.js",
+  "bin": {
+    "redwood-swag": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
